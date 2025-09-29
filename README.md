@@ -27,30 +27,5 @@ Scan Screen:
 <p float="left">
   <img src="screenshots/05_ProfileScreen.jpeg" alt="Profile" width="200" />
   <img src="screenshots/06_Permission.jpeg" alt="Permission" width="200" />
-  <img src="screenshots/07_ScanningScreen.jpeg" alt="Scanning" width="200" />
+  <img src="screenshots/07_ScanScreen.jpeg" alt="Scanning" width="200" />
 </p>
-
-
-Splash Screen:
-
-![SplashScreen](screenshots/01_SplashScreen.jpeg)
-
-Login Screen:
-
-![Login Screen](screenshots/04_LoginScreen.jpeg)
-
-Sign Up Screen:
-
-![SignUp Screen](screenshots/03_SignUpScreen.jpeg)
-
-Profile Screen:
-
-![Profile Screen](screenshots/05_ProfileScreen.jpeg)
-
-Permission:
-
-![Permission](screenshots/06_Permission.jpeg)
-
-Scanning Screen:
-
-![Scan Screen](screenshots/07_ScanScreen.jpeg)

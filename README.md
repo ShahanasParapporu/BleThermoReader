@@ -2,7 +2,9 @@ Functional Flow:
 Main Screen -> Sign up screen -> On successful sign up -> Navigates to login screen to login the user -> On successful Login -> Moves to profile screen 
 
 On Profile Screen :
+
 Top Bluetooth button -> Navigates to Scan Screen
+
 Top Red Logout button -> Logouts the user -> Navigates to Login Screen
 
 Profile Screen Contains:

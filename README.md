@@ -20,19 +20,19 @@ Scan Screen:
 
 Splash Screen:
 
-![Splash Screen](screenshots/01_Splash Screen.jpeg)
+![SplashScreen](screenshots/01_SplashScreen.jpeg)
 
 Login Screen:
 
-![Login Screen](screenshots/04_Login Screen.jpeg)
+![Login Screen](screenshots/04_LoginScreen.jpeg)
 
 Sign Up Screen:
 
-![SignUp Screen](screenshots/03_Sign Up Screen.jpeg)
+![SignUp Screen](screenshots/03_SignUpScreen.jpeg)
 
 Profile Screen:
 
-![Profile Screen](screenshots/05_Profile Screen.jpeg)
+![Profile Screen](screenshots/05_ProfileScreen.jpeg)
 
 Permission:
 
@@ -40,4 +40,4 @@ Permission:
 
 Scanning Screen:
 
-![Scan Screen](screenshots/07_Scan Screen.jpeg)
+![Scan Screen](screenshots/07_ScanScreen.jpeg)

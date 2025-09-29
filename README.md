@@ -21,7 +21,7 @@ Scan Screen:
 <p float="left">
   <img src="screenshots/01_SplashScreen.jpeg" alt="Splash" width="200" />
   <img src="screenshots/04_LoginScreen.jpeg" alt="Login" width="200" />
-  <img src="screenshots/03_SignUpScreen.jpeg" alt="SignUp" width="190" />
+  <img src="screenshots/03_SignUpScreen.jpeg" alt="SignUp" width="198" />
 </p>
 
 <p float="left">

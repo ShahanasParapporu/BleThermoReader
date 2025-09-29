@@ -18,6 +18,26 @@ Scan Screen:
 
 ## Screenshots
 
+## Screenshots
+
+Splash Screen:  
+<img src="screenshots/01_SplashScreen.jpeg" alt="Splash Screen" width="300"/>
+
+Login Screen:  
+<img src="screenshots/04_LoginScreen.jpeg" alt="Login Screen" width="300"/>
+
+Sign Up Screen:  
+<img src="screenshots/03_SignUpScreen.jpeg" alt="SignUp Screen" width="300"/>
+
+Profile Screen:  
+<img src="screenshots/05_ProfileScreen.jpeg" alt="Profile Screen" width="300"/>
+
+Permission Screen:  
+<img src="screenshots/06_Permission.jpeg" alt="Permission Screen" width="300"/>
+
+Scanning Screen:  
+<img src="screenshots/07_ScanningScreen.jpeg" alt="Scanning Screen" width="300"/>
+
 Splash Screen:
 
 ![SplashScreen](screenshots/01_SplashScreen.jpeg)

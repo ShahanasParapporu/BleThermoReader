@@ -16,3 +16,28 @@ Scan Screen:
 3:On Clicking connect button : Attempts connection to the device
 4:Connection status and similar messages displayed on top text.
 
+## Screenshots
+
+Splash Screen:
+
+![Splash Screen](screenshots/01_Splash Screen.jpeg)
+
+Login Screen:
+
+![Login Screen](screenshots/04_Login Screen.jpeg)
+
+Sign Up Screen:
+
+![SignUp Screen](screenshots/03_Sign Up Screen.jpeg)
+
+Profile Screen:
+
+![Profile Screen](screenshots/05_Profile Screen.jpeg)
+
+Permission:
+
+![Permission](screenshots/06_Permission.jpeg)
+
+Scanning Screen:
+
+![Scan Screen](screenshots/07_Scan Screen.jpeg)

@@ -1,22 +1,21 @@
-Functional Flow:
-Main Screen -> Sign up screen -> On successful sign up -> Navigates to login screen to login the user -> On successful Login -> Moves to profile screen 
+Functional Flow:<br>
+Main Screen -> Sign up screen -> On successful sign up -> Navigates to login screen to login the user -> On successful Login -> Moves to profile screen<br><br>
 
-On Profile Screen :
+On Profile Screen:<br>
+Top Bluetooth button -> Navigates to Scan Screen<br>
+Top Red Logout button -> Logouts the user -> Navigates to Login Screen<br><br>
 
-Top Bluetooth button -> Navigates to Scan Screen
+Profile Screen Contains:<br>
+1: Basic patient data: name, email, date of birth, gender, weight and height<br>
+2: Display area for Real time readings<br>
+3: Display area for history data readings<br><br>
 
-Top Red Logout button -> Logouts the user -> Navigates to Login Screen
+Scan Screen:<br>
+1: On starting scan -> search for Bluetooth devices<br>
+2: Lists the found Bluetooth devices.<br>
+3: On Clicking connect button : Attempts connection to the device<br>
+4: Connection status and similar messages displayed on top text.
 
-Profile Screen Contains:
-1:Basic patient data: name, email, date of birth, gender, weight and height
-2:Display area for Real time readings
-3:Display area for history data readings
-
-Scan Screen:
-1:On starting scan -> search for Bluetooth devices
-2:Lists the found Bluetooth devices.
-3:On Clicking connect button : Attempts connection to the device
-4:Connection status and similar messages displayed on top text.
 
 ## Screenshots
 
